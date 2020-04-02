@@ -13,3 +13,5 @@ del Random_num_list [First_num]
 
 print (Random_number)
 ```
+파이썬은 숫자 0 으로 부터 시작 a[0]가 리스트의 첫째  
+요소 a[-1]은 맨마지막 요소
